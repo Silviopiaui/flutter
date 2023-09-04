@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--application name-->
+    <string name="app_name">WEB RÁDIO COMUNHÃO</string>
+    <string name="radio_description">Jesus nossa Música</string>
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_recent">Início</string>
+    <string name="drawer_social">Redes Sociais</string>
+    <string name="drawer_other">Outros</string>
+    <string name="drawer_rate_us">Avalie o Aplicativo</string>
+    <string name="drawer_more_apps">Outros Aplicativos</string>
+    <string name="drawer_share">Compartilhe o Aplicativo</string>
+    <string name="drawer_privacy_policy">Política de Privacidade</string>
+    <string name="drawer_permission">Permissão Adicional</string>
+    <string name="drawer_about">Sobre Nós</string>
+
+    <!--permission agreement-->
+    <string name="permission_title">Permissões para uso do App</string>
+    <string name="btn_allow_permissions">Conceder permissões agora</string>
+    <string name="btn_later">Eu farei isso mais tarde</string>
+    <string name="permission_message">
+        <![CDATA[
+        <p>Por favor, dê-nos as permissões abaixo :</p>
+        <p><strong>PERMISSÃO DE TELEFONE</strong> : ela será usado para parar de tocar rádio quando houver uma chamada telefônica.</p>
+        <p>Não se preocupe, nós garantimos que seus dados estão 100% seguros e não coletamos quaisquer dados que você tenha, a permissão que você dá é apenas para o propósito de que este aplicativo funcione corretamente.</p>
+        ]]>
+    </string>
+
+    <!--about information-->
+    <string name="sub_about_app_copyright">Copyright © NataNet - Tecnologia. \nTodos os direitos reservados</string>
+    <string name="sub_about_app_version">Versão</string>
+
+    <!--sleeping timer-->
+    <string name="sleep_time">Temporizador</string>
+    <string name="min">Minutos</string>
+    <string name="set">Definir</string>
+    <string name="cancel">Sair</string>
+    <string name="stop">Parar</string>
+
+    <!--network & error message-->
+    <string name="failed_title_text">Whoops!</string>
+    <string name="failed_text">Nenhuma conexão de Internet encontrada. Verifique sua conexão ou tente novamente mais tarde!</string>
+    <string name="internet_not_connected">Internet não conectada</string>
+    <string name="error_loading_radio">Erro ao carregar o rádio ou servidor atualmente inativo, tente novamente mais tarde.</string>
+
+    <!--share-->
+    <string name="share_content">Eu gostaria de compartilhar esse aplicativo com você. Aqui você pode baixar direto da PlayStore </string>
+
+    <!--exit dialog-->
+    <string name="message">O que você quer fazer?</string>
+    <string name="dialog_option_cancel">CANCELAR</string>
+    <string name="dialog_option_quit">SAIR</string>
+    <string name="dialog_option_minimize">MINIMIZAR</string>
+
+    <!--other string tag name-->
+    <string name="option_ok">OK</string>
+    <string name="btn_retry">TENTAR NOVAMENTE</string>
+    <string name="no_radio_selected">Whoops, nenhuma rádio selecionado!</string>
+    <string name="drawer_open">Abra a gaveta de navegação</string>
+    <string name="drawer_close">Fechar a gaveta de navegação navigation drawer</string>
+    <string name="no_social_found">Whoops, nenhuma rede social disponível no momento</string>
+
+</resources>
